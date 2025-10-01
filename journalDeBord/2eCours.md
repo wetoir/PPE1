@@ -12,3 +12,8 @@ Puis on fait la configuration de notre git avec git config.
 git config user.email "gialoc2001@gmail.com"
 git config user.name "Loc PHAM"
 
+git show pour avoir l'info sur dernière action
+git shortlog -n -s pour avoir l'info sur contribution
+git tag pour marquer un commit marqueur (par ex dire le moment qu'on a fini une exercice)
+git log pour voir l'ensemble des commit
+
